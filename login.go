@@ -23,7 +23,7 @@ func Login(c *gin.Context) {
 		host     = "localhost"
 		port     = 5432
 		user     = "postgres"
-		password = "power7"
+		password = "WhyouldItellu"
 		dbname   = "login"
 	)
 
